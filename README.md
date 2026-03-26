@@ -8,7 +8,7 @@ asdf plugin for lazysql
 
 
 ```bash
-asdf plugin add lazysql https://github.com/a1xs/asdf-lazysql
+asdf plugin add lazysql https://github.com/a1xs/asdf_lazysql
 ```
 
 ## Install app
